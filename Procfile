@@ -1,0 +1,1 @@
+web: gunicorn p_turisticos.wsgi --log-file -
